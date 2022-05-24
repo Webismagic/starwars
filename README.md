@@ -11,7 +11,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * recherchez **https://github.com/webismagic/starwars** et importez
 
 ## Tutoriel
-*  [tutoriel](/webismagic/tutorial)
+*  [tutoriel](/starwars/tutorial)
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/webismagic/starwars/workflows/MakeCode/badge.svg)
 
 Éditer ce dépôt dans MakeCode.
