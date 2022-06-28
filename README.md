@@ -34,4 +34,5 @@ Cette image peut prendre quelques minutes pour être actualisée.
 #### Métadonnées (utilisées pour la recherche, le rendu)
 
 * for PXT/microbit
-makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");
+<script src="https://makecode.com/gh-pages-embed.js"></script>
+<script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
